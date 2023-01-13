@@ -23,12 +23,3 @@
 - 🧁 loves cupcakes and cats
 
 ![](https://i.imgur.com/ZAuENGl.jpg)
-
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meowiss&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-![meowiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowiss&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowiss&layout=compact&theme=dark&mode=weekly)](https://github.com/meowiss/github-readme-stats)
