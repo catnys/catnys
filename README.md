@@ -1,4 +1,4 @@
-# Hi 👋, I'm brklynna ![](https://i.imgur.com/rofqgpv.png) 
+# Hi 👋, I'm aintBurak :) ![](https://i.imgur.com/rofqgpv.png) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleanoir&label=Profile%20views&color=0e75b6&style=flat" alt="eleanoir" /> </p>
@@ -12,9 +12,9 @@
 
 - ⚡️ Currently working on Backend projects and sometimes CTF player w/ passion  and deep feelings (wizard at nights)
 
-- 🌱 Currently learning Java, Spring (Boot), MongoDB
+- 🌱 Currently learning Java, Spring (Boot), C/C++, SQL 
 
-- 🌟 Mostly backend developer, security researcher, witcher , usual stuff.
+- 🌟 Mostly backend developer, network researcher, witcher , usual stuff.
 
 - 🎓 Still in the university. Junior year student in Computer Science. 
 
