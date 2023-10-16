@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleanoir&label=Profile%20views&color=0e75b6&style=flat" alt="eleanoir" /> </p>
 
 
-# ![](https://imgur.com/nTYjkET.jpg) `$ whoami`   
+# `$ whoami`   
 
 
 ![](https://imgur.com/sEMwGRF.jpg)
@@ -21,5 +21,5 @@
 
 - 🧁 addicted 2 cats especially calico ones 
  
-![](https://imgur.com/zKfIR9v.jpg)
+![](https://imgur.com/zKfIR9v.jpg) ![](https://imgur.com/E2D2JAn.jpg)
  
