@@ -11,7 +11,7 @@
 
 - ⚡️ Currently working on Backend projects and sometimes CTF player w/ passion  and deep feelings (🐾 cat at nights)
 
-- 🌱 Currently learning Java, Spring , C/C++, SQL 
+- 🌱 Currently learning Java, Spring (Boot), C/C++, SQL 
 
 - 🌟 Mostly backend developer, network researcher, cat , usual stuff.
 
