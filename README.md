@@ -9,7 +9,7 @@
 
 ![](https://imgur.com/sEMwGRF.jpg)
 
-- ⚡️ Currently working on Backend projects and sometimes CTF player w/ passion  and deep feelings (🐾 cat at nights)
+- ⚡️ Currently working on Backend projects and sometimes CTF player w/ passion and deep feelings (🐾 cat at nights)
 
 - 🌱 Currently learning Java, Spring (Boot), C/C++, SQL 
 
