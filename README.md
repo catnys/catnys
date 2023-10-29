@@ -18,7 +18,7 @@
 <img src="https://imgur.com/eZfJGE4.gif" align="right">
   </div>
 <li>
- <b>💗 aintburak </b> 
+ <b>💗 itslaren </b> 
 </li>
 <li>
 <b>⚡️ Currently working on Backend projects and sometimes CTF player w/ passion and deep feelings (🐾 cat at nights)</b>
