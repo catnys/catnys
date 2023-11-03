@@ -18,7 +18,7 @@
 <img src="https://imgur.com/eZfJGE4.gif" align="right">
   </div>
 <li>
- <b>💗 itslaren </b> 
+ <b> I'm just a cat :3 </b> 
 </li>
 <li>
 <b>⚡️ Currently working on Backend projects and sometimes CTF player w/ passion and deep feelings (🐾 cat at nights)</b>
