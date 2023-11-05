@@ -99,9 +99,9 @@
 <h1 align="center"> ⚡️ ~ 𝓼𝓽𝓪𝓽𝓼  ~ ⚡️ </h2>
 </div>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itslaren&theme=github_dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itslaren&theme=github_dark">
-<img src="https://github-profile-trophy.vercel.app/?username=itslaren&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aintburak&theme=github_dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aintburak&theme=github_dark">
+<img src="https://github-profile-trophy.vercel.app/?username=aintburak&theme=github_dark">
 </div>
 
 <div align="center">
