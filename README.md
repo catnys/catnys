@@ -1,7 +1,3 @@
-![]([https://hackmd.io/_uploads/S1LsO0SHT.gif](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7981ffd143747b8471a36efc0dd3dbdc.svg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1701337630&Signature=l%2BrNvrSwOGDdMxTLqatQs8eye1I%3D))
-
-
-
 # ![](https://i.imgur.com/rofqgpv.png)  🧁 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🧁
 
 <!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) -->
