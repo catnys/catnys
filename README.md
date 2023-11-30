@@ -92,9 +92,6 @@
 
 ---
 
-<div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif">
-</div>
 <div>
 <h1 align="center"> ⚡️ ~ 𝓼𝓽𝓪𝓽𝓼  ~ ⚡️ </h2>
 </div>
@@ -111,10 +108,10 @@
 ---
 
 <div>
-<h1 align="center"> 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖 </h2>
+<h1 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 </div>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://i.imgur.com/KXx0cCx.gif">
 </div>
 
 
