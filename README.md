@@ -101,14 +101,9 @@
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_3ee6608ba44c7360b4f644a74736aaff.gif?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1698520685&Signature=0LybtKyNR6rpaWhqTTqCtEb%2BdRY%3D">
 </div>
 
-  
-<br>
 <br>
 
 ---
-
-<br>
-<br>
 
 <div>
 <h1 align="center"> ~ 💜 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! 💜 ~ </h2>
@@ -117,5 +112,7 @@
 <img src="https://i.imgur.com/KXx0cCx.gif">
 </div>
 
-
+<h1 align="center">
+  <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
+</h1>
 
