@@ -18,7 +18,7 @@
 
 <div align="center">
 <h1 align="center"> ⭐️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ ⭐️ </h2>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="600px" height="350px">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="800px" height="400px">
 </div>
 
 
