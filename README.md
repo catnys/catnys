@@ -2,13 +2,13 @@
   <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
 </h1>
 <h1 align="center">~ ❄️ 🎊 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🎊 ❄️ ~</h1>
-
+<img src="https://komarev.com/ghpvc/?username=aintburak&color=dc143c">
 
 <!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) -->
 
 
 <div align="center">
-<img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b">
+  <img src="https://imgur.com/sEMwGRF.jpg">
 </div>
 
 <div align="center">
@@ -16,12 +16,14 @@
 </div>
 
 
-<div>
+<div align="center">
 <h1 align="center"> ⭐️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ ⭐️ </h2>
-<img src="https://imgur.com/sEMwGRF.jpg">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="600px" height="350px">
+</div>
 
-  <div align="center">
+
+
+<div align="center">
 <img src="https://imgur.com/eZfJGE4.gif" align="right">
   </div>
 <li>
@@ -46,7 +48,7 @@
 <b>❣️ Interested in kayaking, hiking, tennis, swimming and so on ... </b>
 </li>
 <br><br><br>
-</div>
+
 
 <!-- ![](https://media.tenor.com/3mqWIcsXxMgAAAAC/anime-heart.gif) -->
 
@@ -64,9 +66,13 @@
 <h1 align="center"> ❣️ ~ 🧁 𝓣𝓱𝓲𝓷𝓰𝓼 𝓘'𝓶 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓲𝓷 🧁 ~ ❣️ </h2>
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://media.tenor.com/3mqWIcsXxMgAAAAC/anime-heart.gif" align="left">
+<img src="https://media.tenor.com/3mqWIcsXxMgAAAAC/anime-heart.gif" align="right">
   </div>
+
+<br>
 
 
 
@@ -84,6 +90,7 @@
 
 ---
 
+  
 <br>
 <br>
 
@@ -102,6 +109,11 @@
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_3ee6608ba44c7360b4f644a74736aaff.gif?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1698520685&Signature=0LybtKyNR6rpaWhqTTqCtEb%2BdRY%3D">
 </div>
 
+
+<div align="center">
+<img src = "https://i.imgur.com/5NescPq.png">
+  </div>
+  
 <br>
 <br>
 
