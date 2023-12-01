@@ -6,9 +6,8 @@
 
 <!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) -->
 
-
 <div align="center">
-  <img src="https://imgur.com/sEMwGRF.jpg">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="800px" height="400px">
 </div>
 
 <div align="center">
@@ -18,7 +17,7 @@
 
 <div align="center">
 <h1 align="center"> ⭐️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ ⭐️ </h2>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="800px" height="400px">
+<img src="https://imgur.com/sEMwGRF.jpg">
 </div>
 
 
@@ -52,11 +51,11 @@
 
 <!-- ![](https://media.tenor.com/3mqWIcsXxMgAAAAC/anime-heart.gif) -->
 
-<br>
-<br>
-<br>
-<br>
+<div align="center">
+<img src = "https://i.imgur.com/5NescPq.png">
+  </div>
 
+<br>
 
 ---
 
@@ -109,10 +108,6 @@
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_3ee6608ba44c7360b4f644a74736aaff.gif?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1698520685&Signature=0LybtKyNR6rpaWhqTTqCtEb%2BdRY%3D">
 </div>
 
-
-<div align="center">
-<img src = "https://i.imgur.com/5NescPq.png">
-  </div>
   
 <br>
 <br>
