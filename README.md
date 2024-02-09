@@ -1,18 +1,14 @@
 <h1 align="center">
   <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
 </h1>
-<h1 align="center">~ ❄️ 🎊 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🎊 ❄️ ~</h1>
 
-
-<!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) -->
-
+<!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) 
 <div align="center">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="800px" height="400px">
-</div>
+</div> -->
 
-
+# $ Whoami
 <div align="center">
-<h1 align="center"> ⭐️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ ⭐️ </h2>
 <img src="https://imgur.com/sEMwGRF.jpg">
 </div>
 
@@ -26,19 +22,19 @@
 <b>⚡️ Currently working on Backend projects and sometimes CTF player w/ passion and deep feelings (🐾 cat at nights)</b>
 </li>
 <li>
-<b>🌱 Currently learning Java, Spring (Boot), C/C++, SQL </b> 
+<b>🌱 Currently working on Java, Spring (Boot), C/C++, SQL, and also Python </b> 
 </li>
 <li>
-<b>🌟 Mostly artist, network researcher, backend developer, cat :3 , usual stuff.</b> 
+<b>🌟 Mostly backend dev, CS researcher, usual stuff.</b> 
 </li>
 <li>
-<b> 🎓 Still in the college . Junior year student in Computer Science. </b>
+<b> 🎓 Still in the college . Senior year student in Computer Science. </b>
 </li>
 <li>
 <b>🧁 addicted to cats especially calico ones and also coffee </b>
 </li>
 <li>
-<b>❣️ Interested in kayaking, hiking, tennis, swimming and so on ... ohh don't forget also a NYC lover 🧡 </b>
+<b>❣️ Interested in kayaking, hiking, tennis, swimming and so on ... ohh don't forget also a NYC lover </b>
 </li>
 
 
@@ -52,16 +48,6 @@
 ---
 
 <br>
-<br>
-
-<div align="center">
-  <!-- <img src="https://media.tenor.com/3mqWIcsXxMgAAAAC/anime-heart.gif">  -->
-  <h1 align="center"> ❣️ ~ 🧁 𝓣𝓱𝓲𝓷𝓰𝓼 𝓘'𝓶 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓮𝓭 𝓲𝓷 🧁 ~ ❣️ </h1>
-  </div>
-
-
-
-
 <br>
 
 <div align="center">
@@ -112,7 +98,4 @@
 <img src="https://i.imgur.com/KXx0cCx.gif">
 </div>
 
-<h1 align="center">
-  <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
-</h1>
 
