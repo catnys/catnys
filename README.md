@@ -2,17 +2,10 @@
   <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
 </h1>
 
-<!-- ![](https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b) 
-<div align="center">
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-82e925021ae0df9fc05e3bbb4ab8259b" width="800px" height="400px">
-</div> -->
-
 # $whoami
 <div align="center">
 <img src="https://imgur.com/sEMwGRF.jpg">
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=aintburak&color=dc143c">
 
 <div align="center">
 <img src="https://i.imgur.com/rofqgpv.png" align="left">
