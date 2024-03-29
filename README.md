@@ -33,7 +33,7 @@
 <b> 🎓 Still in the college . Senior year student in Computer Science. </b>
 </li>
 <li>
-<b>🍪 Don't hesitate to grab a bite of the cookie</b>
+<b>🍪 Don't hesitate to grab a bite from the cookie</b>
 </li>
 <li>
 <b>🧁 Average NYC artist </b>
