@@ -7,12 +7,21 @@
 <img src="https://imgur.com/sEMwGRF.jpg">
 </div>
 
+
+<div align="center">
+<img src="https://imgur.com/TQveoSO.jpg" align="left">
+</div>
+
+
+<!--
 <div align="center">
 <img src="https://i.imgur.com/rofqgpv.png" align="left">
 </div>
+-->
+
   
 <li>
-<b>⚡️ Currently working on Backend projects and sometimes CTF player w/ passion and deep feelings (🐾 cat at nights)</b>
+<b>⚡️ Currently working on Backend projects, having strong passionate on deep learning and FL (🐾 cat at nights)</b>
 </li>
 <li>
 <b>🌱 Currently working on Java, Spring (Boot), C/C++, SQL, and also Python </b> 
@@ -24,10 +33,10 @@
 <b> 🎓 Still in the college . Senior year student in Computer Science. </b>
 </li>
 <li>
-<b>🧁 addicted to cats especially calico ones and also coffee </b>
+<b>🍪 Don't hesitate to grab a bite of the cookie</b>
 </li>
 <li>
-<b>❣️ Interested in kayaking, hiking, tennis, swimming and so on ... ohh don't forget also a NYC lover </b>
+<b>🧁 Average NYC artist </b>
 </li>
 
 
