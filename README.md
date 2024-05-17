@@ -24,7 +24,7 @@
 <b>⚡️ Currently working on Backend projects, having strong passionate on deep learning and FL (🐾 cat at nights)</b>
 </li>
 <li>
-<b>🌱 Currently working on Java, Spring (Boot), C/C++, SQL, and also Python </b> 
+<b>🌱 Currently working on mostly C/C++, Python, and also SQL </b> 
 </li>
 <li>
 <b>🌟 Mostly backend dev, CS researcher, usual stuff.</b> 
@@ -36,7 +36,7 @@
 <b>🍪 Don't hesitate to grab a bite from the cookie</b>
 </li>
 <li>
-<b>🧁 Average NYC artist </b>
+<b>🧁 Average Ist artist </b>
 </li>
 
 
