@@ -36,7 +36,7 @@
 <b>🍪 Don't hesitate to grab a bite from the cookie</b>
 </li>
 <li>
-<b>🧁 Average Ist artist </b>
+<b>🧁 Average nyc artist </b>
 </li>
 
 
