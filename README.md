@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/aintburak/aintburak/blob/main/snowing.svg" alt="" />
-</h1>
-
 # $whoami
 <div align="center">
 <img src="https://imgur.com/sEMwGRF.jpg">
