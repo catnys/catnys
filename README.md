@@ -26,7 +26,7 @@
 <b>🌟 Mostly backend dev, CS researcher, usual stuff.</b> 
 </li>
 <li>
-<b> 🎓 Still in the college . Senior year student in Computer Science. </b>
+<b> 🎓 Still in the college. ^^ </b>
 </li>
 <li>
 <b>🍪 Don't hesitate to grab a bite from the cookie</b>
