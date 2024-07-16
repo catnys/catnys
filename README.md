@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="https://imgur.com/TQveoSO.jpg" align="left">
+<img src="https://miro.medium.com/v2/resize:fit:180/1*-ylC6OEKY-zwzfalf8FjLA.png" align="left">
 </div>
 
 
@@ -17,22 +17,22 @@
 
   
 <li>
-<b>⚡️ Currently working on Backend projects, having strong passionate on deep learning and FL (🐾 cat at nights)</b>
+<b>❄️ Currently working on Federated Learning, having strong passionate on DL, ML, AI (🐾 cat at nights) </b>
 </li>
 <li>
-<b>🌱 Currently working on mostly C/C++, Python, and also SQL </b> 
+<b>🌱 Currently working on mostly Python, C/C++ and also SQL </b> 
 </li>
 <li>
-<b>🌟 Mostly backend dev, CS researcher, usual stuff.</b> 
+<b>🌟 Mostly CS researcher </b> 
 </li>
 <li>
-<b> 🎓 Still in the college. ^^ </b>
+<b> 🎓 Still in the college. ^-^ </b>
 </li>
 <li>
-<b>🍪 Don't hesitate to grab a bite from the cookie</b>
+<b>🧁 hobbies are mostly hiking, kayaking, and drawing </b>
 </li>
 <li>
-<b>🧁 Average nyc artist </b>
+<b>✨ Average LA artist </b>
 </li>
 
 
