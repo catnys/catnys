@@ -26,7 +26,7 @@
 <b>🌟 Mostly CS researcher </b> 
 </li>
 <li>
-<b> 🎓 Still in the college. ^-^ </b>
+<b> 🎓 Still in the college ^-^ </b>
 </li>
 <li>
 <b>🧁 hobbies are mostly hiking, kayaking, and drawing </b>
