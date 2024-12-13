@@ -20,7 +20,7 @@
 <b>❄️ Currently working on Federated Learning, having strong passionate on DL, ML, AI (🐾 cat at nights) </b>
 </li>
 <li>
-<b>🌱 Currently working on mostly Go, C/C++ and also SQL </b> 
+<b>🌱 Currently working on mostly C/C++, Math and also SQL </b> 
 </li>
 <li>
 <b>🌟 Mostly CS researcher </b> 
