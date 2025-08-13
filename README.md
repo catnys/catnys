@@ -17,7 +17,7 @@
 
   
 <li>
-<b>❄️ Currently working on Computer Architecture (CoArch), having strong passionate on "Deep Learning" (Federated Learning) </b>
+<b>❄️ Currently working on Computer Architecture (CoArch), having strong passionate on "Deep Learning" (& Federated Learning) </b>
 </li>
 <li>
 <b>🌱 Currently working on mostly C/C++, Math and also SQL </b> 
