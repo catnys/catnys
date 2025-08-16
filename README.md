@@ -15,7 +15,6 @@
 </div>
 -->
 
-  
 <li>
 <b>❄️ Currently working on Computer Architecture (CoArch), having strong passionate on "Deep Learning" (& Federated Learning) </b>
 </li>
